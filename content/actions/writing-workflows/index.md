@@ -2,7 +2,7 @@
 title: Writing workflows
 shortTitle: Write workflows
 intro: '{% data variables.product.prodname_actions %} workflows can automate tasks throughout the software development lifecycle.'
-redirect_from:
+redirect_from: 
   - /actions/learn-github-actions
   - /actions/using-workflows
 versions:
